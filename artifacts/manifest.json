@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "dev_set": "ce9ebf505ea685aab0ab5065b7d6e6724c370781d2235db6655a78913722a123",
+  "dev_set": "85ad6d96fbf76ee64d9fb6339b3bf342b07128a2ebadc0a10f008c95dac01a48",
   "created": "2026-10-20T03:33:56Z",
   "harness": {
     "name": "my-harness",
@@ -20,7 +20,7 @@
       "task-tools.ts": "100644 f0f8e7043d3d4c56e8c473b6af0686145706811b",
       "taskbridge.py": "100644 26cc3d6cf8dbcaed859731ce9a6881f4ca8bfe40"
     },
-    "commit": "6ab05b9f5f256b4ce148c20498b255712fdfbf26",
+    "commit": "da3bace7e945779642ef7d1fe36bc354466da66d",
     "dirty": false
   },
   "tasks": {
@@ -56,7 +56,9 @@
       "ended": "ok",
       "reward": 0.0,
       "tree": "351130789827f7249f4445bc959a96cc12419946b42a83556eda3127cf21c20a",
-      "files": {},
+      "files": {
+        "filesystem/dc_structural__foundation_strategy__blind/output/submission.zip": "1956faa383da86bf48d520d3bb38c6de795aedac"
+      },
       "final_message": "f8494dc5016d983aba08d47940afdb34ed7668f4",
       "deleted": [],
       "skipped": []
